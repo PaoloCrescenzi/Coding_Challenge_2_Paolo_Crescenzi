@@ -1,0 +1,93 @@
+
+.black{
+  background: rgba(0,0,0,0.6);
+	width: 30px: 30px;
+	max-width: 1000px;
+	border-radius: 15px;
+	padding: 100px;
+	margin: auto;
+}
+
+.logolime{
+  width: 250px;
+}
+
+
+.header{
+  align-content: center;
+}
+
+
+.text1{
+  color: lime;
+  font-family: sans-serif
+}
+
+
+.button{
+  background-color: lime;
+  padding: 15px
+}
+
+
+.align-main{
+  width: 1000px;
+  margin: auto;
+}
+
+
+#rectangle{
+  border-radius: 10px;
+  width: 300px;
+  height: 30px;
+  background: orange;
+}
+
+
+#rectangle2{
+  border-radius: 10px;
+  width: 600px;
+  height: 30px;
+  background: lime;
+}
+
+
+#rectangle3{
+  border-radius: 10px;
+  width: 150px;
+  height: 30px;
+  background: red;
+}
+
+
+body {
+  background-image: url(background.jpg);
+  background-size: 100vw;
+  align-content: center;
+  display:flex;
+  justify-content:center;
+  min-height:100vh;
+  background-size: 100%;
+
+
+}
+
+
+.main-text{
+  opacity: 100%
+}
+
+
+p{
+  color: white;
+  font-size: 18;
+  line-height: 2px;
+  font-family: sans-serif
+}
+
+
+span{
+  color: white;
+  font-size: 25px;
+  font-family: sans-serif
+}
